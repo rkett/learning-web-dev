@@ -4,6 +4,7 @@ This is just a collection of articles, textbooks, or other resources related to 
 ## CSS
 
 https://css-tricks.com/the-difference-between-id-and-class/
+https://stackoverflow.com/questions/5958699/difference-between-margin-and-padding
 
 ## HTML 5
 
