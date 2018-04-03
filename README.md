@@ -4,3 +4,7 @@ This is just a collection of articles, textbooks, or other resources related to 
 ## CSS
 
 https://css-tricks.com/the-difference-between-id-and-class/
+
+## HTML 5
+
+## jQuery
