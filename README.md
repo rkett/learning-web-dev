@@ -29,3 +29,7 @@ https://linuxwebdevelopment.com/how-to-insert-emojis-in-html/
 ## jQuery
 
 https://www.abeautifulsite.net/smoothly-scroll-to-an-element-without-a-jquery-plugin-2
+
+## General 
+
+https://developer.mozilla.org/en-US/docs/Learn
