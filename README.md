@@ -12,6 +12,8 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 https://daneden.github.io/animate.css/
 
+https://www.quackit.com/css/external_style_sheets.cfm
+
 ## HTML 5
 
 ## jQuery
