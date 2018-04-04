@@ -20,5 +20,7 @@ https://www.kirupa.com/html5/animating_in_code_using_javascript.htm
 
 ## HTML
 
+https://linuxwebdevelopment.com/how-to-insert-emojis-in-html/
+
 ## jQuery
 
