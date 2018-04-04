@@ -14,6 +14,11 @@ https://daneden.github.io/animate.css/
 
 https://www.quackit.com/css/external_style_sheets.cfm
 
-## HTML 5
+## Javascript
+
+https://www.kirupa.com/html5/animating_in_code_using_javascript.htm
+
+## HTML
 
 ## jQuery
+
