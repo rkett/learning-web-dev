@@ -14,6 +14,8 @@ https://daneden.github.io/animate.css/
 
 https://www.quackit.com/css/external_style_sheets.cfm
 
+https://websitesetup.org/web-safe-fonts-html-css/
+
 ## Javascript
 
 https://www.kirupa.com/html5/animating_in_code_using_javascript.htm
