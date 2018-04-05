@@ -32,6 +32,8 @@ https://www.abeautifulsite.net/smoothly-scroll-to-an-element-without-a-jquery-pl
 
 http://api.jquery.com/after/
 
+https://stackoverflow.com/questions/6143373/what-is-the-difference-between-the-document-selector-and-window-selector/6143455
+
 ## General 
 
 https://developer.mozilla.org/en-US/docs/Learn
