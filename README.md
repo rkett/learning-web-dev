@@ -18,6 +18,8 @@ https://websitesetup.org/web-safe-fonts-html-css/
 
 https://www.w3schools.com/css/css_grid.asp
 
+https://css-tricks.com/examples/ShapesOfCSS/
+
 ## Javascript
 
 https://www.kirupa.com/html5/animating_in_code_using_javascript.htm
