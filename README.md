@@ -4,44 +4,44 @@ This is just a collection of articles, textbooks, or other resources related to 
 
 ## CSS
 
-https://css-tricks.com/the-difference-between-id-and-class/
+ID vs Class: https://css-tricks.com/the-difference-between-id-and-class/
 
-https://stackoverflow.com/questions/5958699/difference-between-margin-and-padding
+Maring vs Padding: https://stackoverflow.com/questions/5958699/difference-between-margin-and-padding
 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-https://daneden.github.io/animate.css/
+AnimateCSS Framework: https://daneden.github.io/animate.css/
 
-https://www.quackit.com/css/external_style_sheets.cfm
+Using External Stylesheets: https://www.quackit.com/css/external_style_sheets.cfm
 
-https://websitesetup.org/web-safe-fonts-html-css/
+Web Safe Fonts: https://websitesetup.org/web-safe-fonts-html-css/
 
-https://www.w3schools.com/css/css_grid.asp
+CSS Grid: https://www.w3schools.com/css/css_grid.asp
 
-https://css-tricks.com/examples/ShapesOfCSS/
+CSS Shapes: https://css-tricks.com/examples/ShapesOfCSS/
 
-https://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/
+Font Size Differences: https://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/
 
 ## Javascript
 
-https://www.kirupa.com/html5/animating_in_code_using_javascript.htm
+Animation in JS: https://www.kirupa.com/html5/animating_in_code_using_javascript.htm
 
 ## HTML
 
-https://linuxwebdevelopment.com/how-to-insert-emojis-in-html/
+Emjois in HTML: https://linuxwebdevelopment.com/how-to-insert-emojis-in-html/
 
 ## jQuery
 
-https://www.abeautifulsite.net/smoothly-scroll-to-an-element-without-a-jquery-plugin-2
+Scroll to Element using jQuery: https://www.abeautifulsite.net/smoothly-scroll-to-an-element-without-a-jquery-plugin-2
 
-http://api.jquery.com/after/
+jQuery docs after(): http://api.jquery.com/after/
 
-https://stackoverflow.com/questions/6143373/what-is-the-difference-between-the-document-selector-and-window-selector/6143455
+Window vs Document: https://stackoverflow.com/questions/6143373/what-is-the-difference-between-the-document-selector-and-window-selector/6143455
 
 ## General 
 
-https://developer.mozilla.org/en-US/docs/Learn
+Moz Web Dev Learning: https://developer.mozilla.org/en-US/docs/Learn
 
-https://www.awwwards.com/what-are-frameworks-22-best-responsive-css-frameworks-for-web-design.html
+CSS Frameworks List (2018): https://www.awwwards.com/what-are-frameworks-22-best-responsive-css-frameworks-for-web-design.html
 
-https://matwrites.com/bulma-css-framework-for-2018/
+Article on BulmaCSS Framework: https://matwrites.com/bulma-css-framework-for-2018/
