@@ -26,6 +26,8 @@ Font Size Differences: https://kyleschaeffer.com/development/css-font-size-em-vs
 
 Animation in JS: https://www.kirupa.com/html5/animating_in_code_using_javascript.htm
 
+element.classList: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+
 ## HTML
 
 Emjois in HTML: https://linuxwebdevelopment.com/how-to-insert-emojis-in-html/
