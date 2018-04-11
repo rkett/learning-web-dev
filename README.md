@@ -30,6 +30,8 @@ Animation in JS: https://www.kirupa.com/html5/animating_in_code_using_javascript
 
 Emjois in HTML: https://linuxwebdevelopment.com/how-to-insert-emojis-in-html/
 
+Aria Labels: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute
+
 ## jQuery
 
 Scroll to Element using jQuery: https://www.abeautifulsite.net/smoothly-scroll-to-an-element-without-a-jquery-plugin-2
