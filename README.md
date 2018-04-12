@@ -48,6 +48,8 @@ SVG to Web: https://medium.com/coding-artist/take-vector-graphics-to-the-web-an-
 
 Affinity Designer: https://affinity.serif.com/en-gb/
 
+SVG to Code (Amazing Work): https://jakearchibald.github.io/svgomg/
+
 ## General 
 
 Moz Web Dev Learning: https://developer.mozilla.org/en-US/docs/Learn
