@@ -28,6 +28,10 @@ Animation in JS: https://www.kirupa.com/html5/animating_in_code_using_javascript
 
 element.classList: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
 
+Eloquent JS: https://eloquentjavascript.net/00_intro.html
+
+You Don't know JS: https://github.com/getify/You-Dont-Know-JS
+
 ## HTML
 
 Emjois in HTML: https://linuxwebdevelopment.com/how-to-insert-emojis-in-html/
