@@ -65,3 +65,5 @@ Moz Web Dev Learning: https://developer.mozilla.org/en-US/docs/Learn
 CSS Frameworks List (2018): https://www.awwwards.com/what-are-frameworks-22-best-responsive-css-frameworks-for-web-design.html
 
 Article on BulmaCSS Framework: https://matwrites.com/bulma-css-framework-for-2018/
+
+Prototype vs Class vs Constructor: https://teamtreehouse.com/community/what-is-the-difference-between-a-constructor-and-a-prototype-or-class
