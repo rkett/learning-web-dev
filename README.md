@@ -32,6 +32,10 @@ Eloquent JS: https://eloquentjavascript.net/00_intro.html
 
 You Don't know JS: https://github.com/getify/You-Dont-Know-JS
 
+Bracket vs. Dot Notation: https://codeburst.io/javascript-quickie-dot-notation-vs-bracket-notation-333641c0f781
+
+JSON: http://www.json.org/
+
 ## HTML
 
 Emjois in HTML: https://linuxwebdevelopment.com/how-to-insert-emojis-in-html/
