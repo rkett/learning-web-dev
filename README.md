@@ -36,6 +36,8 @@ Bracket vs. Dot Notation: https://codeburst.io/javascript-quickie-dot-notation-v
 
 JSON: http://www.json.org/
 
+map(): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+
 ## HTML
 
 Emjois in HTML: https://linuxwebdevelopment.com/how-to-insert-emojis-in-html/
