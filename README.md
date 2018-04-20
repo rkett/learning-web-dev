@@ -67,3 +67,7 @@ CSS Frameworks List (2018): https://www.awwwards.com/what-are-frameworks-22-best
 Article on BulmaCSS Framework: https://matwrites.com/bulma-css-framework-for-2018/
 
 Prototype vs Class vs Constructor: https://teamtreehouse.com/community/what-is-the-difference-between-a-constructor-and-a-prototype-or-class
+
+What is a callback function ?: https://stackoverflow.com/questions/824234/what-is-a-callback-function
+
+Callback function: https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
