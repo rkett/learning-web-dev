@@ -54,6 +54,10 @@ jQuery docs after(): http://api.jquery.com/after/
 
 Window vs Document: https://stackoverflow.com/questions/6143373/what-is-the-difference-between-the-document-selector-and-window-selector/6143455
 
+## PHP
+
+List of PHP Frameworks: https://en.wikipedia.org/wiki/Category:PHP_frameworks
+
 ## Vector Design
 
 SVG to Web: https://medium.com/coding-artist/take-vector-graphics-to-the-web-an-introduction-to-svgs-f2ee599351df
