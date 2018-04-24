@@ -79,3 +79,9 @@ Prototype vs Class vs Constructor: https://teamtreehouse.com/community/what-is-t
 What is a callback function ?: https://stackoverflow.com/questions/824234/what-is-a-callback-function
 
 Callback function: https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
+
+Wordpress API: https://codex.wordpress.org/Class_Reference/WP_Query
+
+Quotes On Design: https://quotesondesign.com/api-v4-0/
+
+Using Wordpress API: https://css-tricks.com/using-the-wp-api-to-fetch-posts/
