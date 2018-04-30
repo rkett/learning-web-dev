@@ -85,3 +85,5 @@ Wordpress API: https://codex.wordpress.org/Class_Reference/WP_Query
 Quotes On Design: https://quotesondesign.com/api-v4-0/
 
 Using Wordpress API: https://css-tricks.com/using-the-wp-api-to-fetch-posts/
+
+FCC Beta (Starting at CSS Flexbox and Grids): https://beta.freecodecamp.org/en/challenges/responsive-web-design-principles/introduction-to-the-responsive-web-design-challenges
